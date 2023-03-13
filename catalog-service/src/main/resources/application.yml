@@ -1,6 +1,5 @@
 spring:
   application:
-    name: gateway
+    name: catalog-service
   config:
     import: configserver:http://localhost:8888
-
